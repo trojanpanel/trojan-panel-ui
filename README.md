@@ -1,3 +1,5 @@
+[中文](README_ZH.md)
+
 ## Trojan Panel UI
 
 Trojan Panel Frontend
