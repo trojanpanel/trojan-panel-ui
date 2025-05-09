@@ -4,15 +4,17 @@
 
 木马面板前端
 
-## 编译
+## 构建
 
 ```
 yarn run build
 ```
 
-## 电报
+## 其他
 
-Telegram Channel: https://t.me/TrojanPanel
+Telegram Channel: https://t.me/jonssonyan_channel
+
+You can subscribe to my channel on YouTube: https://www.youtube.com/@jonssonyan
 
 ## 致谢
 

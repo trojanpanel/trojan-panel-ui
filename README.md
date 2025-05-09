@@ -1,20 +1,22 @@
 [中文](README_ZH.md)
 
-# Trojan Panel Frontend
+## Trojan Panel UI
 
 Trojan Panel Frontend
 
-## Compile
+## Build
 
 ```
 yarn run build
 ```
 
-## Telegram
+## Other
 
-Telegram Channel: https://t.me/TrojanPanel
+Telegram Channel: https://t.me/jonssonyan_channel
 
-## Thanks
+You can subscribe to my channel on YouTube: https://www.youtube.com/@jonssonyan
+
+## Support
 
 - [trojan](https://github.com/trojan-gfw/trojan)
 - [trojan-go](https://github.com/p4gefau1t/trojan-go)
